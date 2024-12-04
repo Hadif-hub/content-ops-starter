@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'BLOCK 4 :'
+      text: 'BLOCK 4 : AMETHYST'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
