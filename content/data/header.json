@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Ah xdenye nak buat account",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
