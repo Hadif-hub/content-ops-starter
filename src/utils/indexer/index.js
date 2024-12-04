@@ -1,8 +1,20 @@
+import Head from 'next/head';
 import { marked } from 'marked';
 import PlainTextRenderer from './markdown-plaintext';
 import algoliasearch from 'algoliasearch';
 import { ALGOLIA_APP_ID, ALGOLIA_INDEX_NAME_SUFFIX, ALGOLIA_ADMIN_API_KEY, buildIndexName } from './consts';
 import { allContent } from '../local-content';
+
+export default function Home() {
+  return (
+    <>
+      <Head>
+        <title>My Awesome Website</title>
+      </Head>
+      <h1>Welcome to My Cool Site!</h1>
+    </>
+  );
+}
 
 export async function index() {
     if (!ALGOLIA_APP_ID || !ALGOLIA_INDEX_NAME_SUFFIX || !ALGOLIA_ADMIN_API_KEY) {
