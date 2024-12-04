@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import '../css/main.css';
 
-export default function Home() {
+export function Home() {
   return (
     <>
       <Head>
