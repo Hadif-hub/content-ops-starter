@@ -4,7 +4,9 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -19,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Album",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
