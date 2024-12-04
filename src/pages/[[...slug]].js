@@ -5,7 +5,7 @@ import { getComponent } from '../components/components-registry';
 import { resolveStaticProps } from '../utils/static-props-resolvers';
 import { resolveStaticPaths } from '../utils/static-paths-resolvers';
 
-export default function Home() {
+export function Home() {
   return (
     <>
       <Head>
