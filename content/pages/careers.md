@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: Yup definitely tempat letak nama AJK
     text: >
       There are many variations of passages of Lorem Ipsum available, but the
       majority have suffered alteration in some form, by injected humour, or
@@ -17,8 +17,8 @@ sections:
       going to use a passage of Lorem Ipsum, you need to be sure there isn't
       anything embarrassing hidden in the middle of text.
     actions:
-      - label: See open positions
-        url: /
+      - label: 'Xtau, youtube kot haha'
+        url: 'https://www.youtube.com/@hacksmith'
         icon: arrowRight
         iconPosition: right
         style: primary
