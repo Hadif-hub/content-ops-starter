@@ -13,7 +13,7 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: ''
+      - label: Gsheet kat sini
         altText: ''
         url: >-
           https://docs.google.com/spreadsheets/d/1Q41_O4oGdvO2IMEsJJ76zyl7UNrIUdENd86nJwAYBPI/edit?usp=sharing
