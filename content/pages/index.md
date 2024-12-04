@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Instagram IPGKBA
         altText: ''
         url: 'https://www.instagram.com/ipgkba/'
         showIcon: true
