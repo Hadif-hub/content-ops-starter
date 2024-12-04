@@ -8,7 +8,7 @@ topSections:
       text: Aktiviti Utama
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: This is the subtitle (ini adalah terjemahan)
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
