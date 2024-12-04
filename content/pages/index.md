@@ -15,7 +15,8 @@ sections:
     actions:
       - label: ''
         altText: ''
-        url: Gsheet kat sini
+        url: >-
+          https://docs.google.com/spreadsheets/d/1Q41_O4oGdvO2IMEsJJ76zyl7UNrIUdENd86nJwAYBPI/edit?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
