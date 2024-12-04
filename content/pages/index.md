@@ -148,6 +148,16 @@ sections:
         style: primary
         elementId: ''
         type: Button
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: >-
+          /https://docs.google.com/spreadsheets/d/1Q41_O4oGdvO2IMEsJJ76zyl7UNrIUdENd86nJwAYBPI/edit?usp=sharing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       label: This is a badge
       color: text-primary
