@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: 'https://www.instagram.com/ipgkba/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
