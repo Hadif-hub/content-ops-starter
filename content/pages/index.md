@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: WELCOME TO
+      label: AJK MULTIMEDIA (NAMA KHAS) PRESENTS
       color: text-primary
       type: Badge
     elementId: ''
