@@ -1,8 +1,20 @@
+import Head from 'next/head';
 import React from 'react';
 import { allContent } from '../utils/local-content';
 import { getComponent } from '../components/components-registry';
 import { resolveStaticProps } from '../utils/static-props-resolvers';
 import { resolveStaticPaths } from '../utils/static-paths-resolvers';
+
+export default function Home() {
+  return (
+    <>
+      <Head>
+        <title>My Awesome Website</title>
+      </Head>
+      <h1>Welcome to My Cool Site!</h1>
+    </>
+  );
+}
 
 function Page(props) {
     const { page, site } = props;
