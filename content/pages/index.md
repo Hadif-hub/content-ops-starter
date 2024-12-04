@@ -7,7 +7,7 @@ sections:
       text: 'BLOCK 4 : AMETHYST'
       color: text-dark
       type: TitleBlock
-    subtitle: 'MADE BY : AJK MULTIMEDIA (NAMA KHAS)'
+    subtitle: WHERE KEHENSEMAN BEGINS
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
