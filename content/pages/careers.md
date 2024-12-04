@@ -18,7 +18,7 @@ sections:
       anything embarrassing hidden in the middle of text.
     actions:
       - label: See open positions
-        url: /
+        url: 'https://www.youtube.com/@hacksmith'
         icon: arrowRight
         iconPosition: right
         style: primary
