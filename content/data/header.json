@@ -4,14 +4,16 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Aq pun xtau nk letak ape",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Album",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Ajk",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,11 +39,11 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Sosial",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Facebook",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,7 +51,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Instagram",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -57,7 +59,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Tiktok",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -80,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Ah xdenye nak buat account",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
