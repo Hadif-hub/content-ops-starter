@@ -747,7 +747,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Amethyst - Maskulin
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Pusat Pembentukan Sahsiah.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
