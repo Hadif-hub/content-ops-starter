@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: Gsheet kat sini
         showIcon: false
         icon: arrowRight
         iconPosition: right
