@@ -117,7 +117,7 @@ sections:
     type: PricingSection
 seo:
   metaTitle: Amethyst - Maskulin,
-  metaDescription: "Pusat Pembentukan Sahsiah",
+  metaDescription: Pusat Pembentukan Sahsiah,
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
